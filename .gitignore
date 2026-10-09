@@ -2,3 +2,4 @@ queromatarmeuchefe.txt
 node_modules
 *.tmp
 *.temp
+.gitignore
